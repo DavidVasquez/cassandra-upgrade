@@ -1,0 +1,8 @@
+cluster_name: "Test Cluster"
+num_tokens: 256
+data_file_directories:
+    ­ /var/lib/cassandra/data
+rpc_server_type: sync
+
+#my_default_property: "foo"
+#my_uncommented_property: "bar"
